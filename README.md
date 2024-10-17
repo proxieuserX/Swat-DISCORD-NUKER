@@ -3,3 +3,20 @@
 DISCORD SERVER NUKER
 
     $wat NUKER
+
+
+INSTRUCTIONS
+
+extract the rar file
+
+open config.txt
+
+put your bot token inside the " " and replace the text inside of the " " with your bot token
+
+add proxies (if you have them/want them)
+
+open $wat.exe
+
+ENJOY!!!
+
+PS: Fuck Discord
